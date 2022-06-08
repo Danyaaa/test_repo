@@ -18,5 +18,6 @@
       "type": "pdns",
       "ln": 2
     }
-  ]
+  ],
+    "data2":"data2"
 }
