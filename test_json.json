@@ -1,4 +1,4 @@
-  "data": [
+{"data": [
     {
       "host": "295.yao.cl",
       "links": "205.251.155.71",
@@ -17,4 +17,6 @@
       "type": "pdns",
       "ln": 2
     }
-  ]
+  ],
+ "ayhaga: "ayhaga"
+}
