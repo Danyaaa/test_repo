@@ -1,22 +1,3 @@
-{
-  "meta": [
-    {
-      "name": "host",
-      "type": "String"
-    },
-    {
-      "name": "links",
-      "type": "String"
-    },
-    {
-      "name": "type",
-      "type": "String"
-    },
-    {
-      "name": "ln",
-      "type": "UInt8"
-    }
-  ],
   "data": [
     {
       "host": "295.yao.cl",
@@ -37,4 +18,3 @@
       "ln": 2
     }
   ]
-}
