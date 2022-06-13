@@ -6,6 +6,12 @@
       "type": "pdns",
       "ln": 2
     },
+        {
+      "host": "295.yao.cl",
+      "links": "100.100.100.100",
+      "type": "pdns",
+      "ln": 2
+    },
     {
       "host": "ET Trojan: APT-C-27",
       "links": "encryptit.qc.to",
