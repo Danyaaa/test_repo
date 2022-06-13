@@ -1,0 +1,9 @@
+{
+    "data": [
+    {
+      "host": "295.yao.cl",
+      "links": "1.1.1.1",
+      "type": "pdns",
+      "ln": 2
+    }
+}
